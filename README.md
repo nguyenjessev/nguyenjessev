@@ -1,4 +1,4 @@
-## Hello!
+## Hello! 👋
 
 I'm Jesse Nguyen, a musician and software engineer. I have a degree in music recording technology, and play the violin and guitar. I also have experience across the full stack, and I'm just as comfortable designing beautifully responsive frontends as I am building Go-based microservices for big eCommerce retailers.
 
