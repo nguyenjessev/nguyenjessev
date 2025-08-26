@@ -4,7 +4,7 @@ I'm Jesse Nguyen, a musician and software engineer. I have a degree in music rec
 
 Looking for a software engineer to join your team? I'm available, let's chat!
 
-Check out my self-hosted home bar management app, [Liquor Locker](nguyenjessev/liquor-locker)!
+Check out my self-hosted home bar management app, [Liquor Locker](https://github.com/nguyenjessev/liquor-locker)!
 
 <!--
 **nguyenjessev/nguyenjessev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
