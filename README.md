@@ -2,8 +2,6 @@
 
 I'm Jesse Nguyen, a musician and software engineer. I have a degree in music recording technology, and play the violin and guitar. I also have experience across the full stack, and I'm just as comfortable designing beautifully responsive frontends as I am building Go-based microservices for big eCommerce retailers.
 
-Looking for a software engineer to join your team? I'm available, let's chat!
-
 Check out my self-hosted home bar management app, [Liquor Locker](https://github.com/nguyenjessev/liquor-locker)!
 
 <!--
